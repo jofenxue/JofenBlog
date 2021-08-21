@@ -1,0 +1,1 @@
+const SIDEBAR={"/fronttech/":[{text:"fronttech",children:["/fronttech/vue/component/encapsulation/example1.md","/fronttech/vuepress/vuepress.md"]}],"/oastudy/":[{text:"oastudy",children:["/oastudy/README.md"]}]};export{SIDEBAR};
